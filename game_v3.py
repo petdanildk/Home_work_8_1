@@ -15,4 +15,3 @@ def game_score_v3(number: int=1) -> int:
 
 print('Загаданое Число: {} угадано за {} циклов'.format(number, game_score_v3(number)))
 
-"""" Проверка работы функции """ 
